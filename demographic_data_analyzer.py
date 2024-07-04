@@ -1,3 +1,6 @@
+#I used a walkthrough for this project given by Landon Schlangen through this YouTube video below: 
+# --> https://www.youtube.com/watch?v=g9Qmezvsz1s&t=696s
+
 import pandas as pd
 
 
